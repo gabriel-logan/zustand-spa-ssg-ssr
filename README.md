@@ -3,9 +3,9 @@
 Demonstration repository created to test and compare how Zustand behaves across multiple application architectures: **SPA**, **SSG**, and **SSR**.
 
 ## Projects
-1. [Next.js SPA — Zustand Behavior](./nextjs-spa)
-2. [Next.js SSG — Zustand Behavior](./nextjs-ssg)
-3. [Next.js SSR — Zustand Behavior](./nextjs-ssr)
+1. [React Vite SPA — Zustand Behavior](./react-vite-spa/README.md)
+2. [Next.js SSG — Zustand Behavior](./nextjs-ssg/README.md)
+3. [Next.js SSR — Zustand Behavior](./nextjs-ssr/README.md)
 
 ## Conclusions
 
