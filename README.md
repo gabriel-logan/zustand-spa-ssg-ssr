@@ -7,6 +7,10 @@ Demonstration repository created to test and compare how Zustand behaves across 
 2. [Next.js SSG — Zustand Behavior](./nextjs-ssg/README.md)
 3. [Next.js SSR — Zustand Behavior](./nextjs-ssr/README.md)
 
+## Learn
+
+[LEARN](LEARN.md)
+
 ## Conclusions
 
 * Zustand works consistently across **SPA**, **SSG**, and **SSR**.
